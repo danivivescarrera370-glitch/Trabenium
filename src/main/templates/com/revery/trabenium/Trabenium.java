@@ -18,4 +18,21 @@ public class Trabenium {
         // This method is called when the mod is initialized. You can use it to register your mod's components, such as blocks, items, and entities.
         registerComponents();
     }
+
+    public static boolean isTrabeniumLoaded() {
+        try {
+            Class.forName("main.templates.com.revery.trabenium.Trabenium");
+            return true;
+        } catch (ClassNotFoundException e) {
+            return false;
+        }
+    }
+    public static java.lang.reflect.Method getTrabeniumMethod(String methodName, Class<?>... parameterTypes) {
+        try {
+            Class<?> trabeniumClass = Class.forName("main.templates.com.revery.trabenium.Trabenium");
+            return trabeniumClass.getMethod(methodName, parameterTypes);
+        } catch (ReflectiveOperationException e) {
+            throw new IllegalStateException("Unable to find method " + methodName + " in Trabenium class", e);
+        }
+    }
 }

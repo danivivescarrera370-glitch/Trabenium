@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "enabled": true,
+  "enableCEM": true,
+  "enableAnimations": true,
+  "moddedMobSupport": true,
+  "fixEBECompat": true,
+  "logErrors": false,
+  "exportModelsMode": "OFF"
+}
