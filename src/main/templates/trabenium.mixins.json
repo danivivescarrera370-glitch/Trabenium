@@ -1,0 +1,9 @@
+{
+  "mixins": [
+    {
+      "name": "trabenium",
+      "description": "A mixin for Trabenium",
+      "version": "1.0.0"
+    }
+ ]
+}
