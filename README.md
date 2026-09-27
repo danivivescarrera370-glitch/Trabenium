@@ -21,7 +21,7 @@ Trabenium is an optimization addon built specifically to provide **Sodium compat
 * Minecraft (Supported versions)
 * Fabric API / NeoForge (As applicable)
 * Sodium
-* Trabe Base Mod(s)
+* Traben Base Mod(s)
 
 ## 📄 License
 
