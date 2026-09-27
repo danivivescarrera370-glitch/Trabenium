@@ -28,4 +28,10 @@ class Default {
     System.out.println("Trabenium is a compatibility layer for all Traben mods, allowing them to run on the Sodium/Embeddium mod. It is a work in progress and may not be fully functional yet.");
   }
 }
+class secondary {
+  public static void main(String[] args) {
+    System.out.print("Trabenium System detected. Please ensure that you have the latest version of Trabenium installed for optimal compatibility with Traben mods.");
+  }
+}
+
 
