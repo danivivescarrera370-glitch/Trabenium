@@ -12,7 +12,7 @@ Trabenium is an optimization addon built specifically to provide **Sodium compat
 
 1. Make sure you have your preferred **Mod Loader** installed (Fabric/NeoForge).
 2. Download and install **Sodium**.
-3. Download the core **Trabe** mods.
+3. Download the core **Traben** mods.
 4. Place **Trabenium** into your `.minecraft/mods` directory.
 5. Launch the game and enjoy optimized performance!
 
