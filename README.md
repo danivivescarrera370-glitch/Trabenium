@@ -1,6 +1,6 @@
 # Trabenium
 
-Trabenium is an optimization addon built specifically to provide **Sodium compatibility** for the **Trabe** mod ecosystem. It bridges the gap between engine-level rendering optimizations and Trabe's custom mechanics, ensuring smooth performance without graphical glitches.
+Trabenium is an optimization addon built specifically to provide **Sodium compatibility** for the **Traben** mod ecosystem. It bridges the gap between engine-level rendering optimizations and Trabe's custom mechanics, ensuring smooth performance without graphical glitches.
 
 ## 🚀 Features
 
